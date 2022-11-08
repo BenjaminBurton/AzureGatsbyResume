@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `La'vell Burton`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `La'vell Burton`,
+      summary: `deploying resume with gatsby through Azure  .`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `A demonstration of what Gatsby can do using Azure.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
       twitter: `kylemathews`,
