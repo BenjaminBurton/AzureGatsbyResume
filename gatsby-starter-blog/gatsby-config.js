@@ -8,7 +8,7 @@ module.exports = {
     description: `A demonstration of what Gatsby can do using Azure.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
-      twitter: `kylemathews`,
+      instagram: `mr._burton`,
     },
   },
   plugins: [
